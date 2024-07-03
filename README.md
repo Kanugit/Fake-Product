@@ -8,7 +8,7 @@ This is a simple e-commerce application built with React and Vite. It fetches pr
 
 - **Navbar**: Includes search functionality and sorting options.
 - **Item List**: Displays fetched products with filtering and sorting capabilities.
-- **Pagination**: Allows loading more products as the user scrolls down.
+- **Pagination**: Allows loading more products as the user scrolls down or click Load More Button.
 - **Footer**: Provides essential links and information.
 
 ## Getting Started
