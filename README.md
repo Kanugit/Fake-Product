@@ -4,12 +4,18 @@
 
 This is a simple e-commerce application built with React and Vite. It fetches product data from a mock API, allows users to search, filter, and sort products, implements pagination, and includes a responsive design.
 
+## Screenshot
+
+![Screenshot](https://github.com/Kanugit/Fake-Product/blob/master/src/assets/screenshot.jpg)
+
+
+
 ## Features
 
 - **Navbar**: Includes search functionality and sorting options.
 - **Item List**: Displays fetched products with filtering and sorting capabilities.
-- **Pagination**: Allows loading more products as the user scrolls down or click Load More Button.
-- **Footer**: Provides essential links and information.
+- **Pagination**: Allows loading more products as the user scrolls down and click Load More Button.
+- **Footer**: Provides essential information.
 
 ## Getting Started
 
@@ -55,5 +61,5 @@ To run tests (if applicable):
 
 # License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
 
